@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient( to  bottom,#770000,#a31a1a);
+}
+h1{
+    text-align: center;
+    color: rgb(243, 42, 42);
+}
+h2{
+    text-align: center;
+    color: #3b0b0b;
+}
+
+img{
+    width: 350px;
+    height: 200px;
+    position: relative;
+    left:170px;
+    opacity: 1;
+}
+img:hover{
+    opacity: 0;
+    transition: 6s;
+}
+p{<br>
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    -webkit-text-stroke: 1px #9B2525;<br>
+}
+.p1{
+    text-align: center;
+    color: rgb(231, 128, 128);
+}
+.i1{
+   box-shadow: 0 10px 20px 0  rgb(0, 238, 255); 
+}
+.i2{
+    box-shadow: 0 10px 20px 0  rgb(255, 251, 168); 
+}
+.i3{
+  box-shadow: 0 10px 20px 0  rgb(161, 153, 153); 
+}
+.i4{
+    box-shadow: 0 15px 20px 0  rgb(8, 7, 41); 
+}
+.i5{
+   box-shadow: 0 10px 20px 0  rgb(248, 210, 173); 
+}
